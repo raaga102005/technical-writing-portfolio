@@ -9,23 +9,23 @@ Written by a CSE student from Bangalore.
 
 ### 1. What is an API? A Simple Explanation with Real Examples
 A beginner-friendly guide to APIs using real examples like Zomato and weather apps. Includes a working Python code example.
-Read here: https://dev.to/raagawrites/what-is-an-api-a-simple-explanation-with-real-examples
+Read here: https://dev.to/raagawrites/what-is-an-api-a-simple-explanation-with-real-examples-1850
 
 ### 2. What is Git? A Beginner's Guide with Real Examples
 The 5 Git commands every developer actually needs — explained simply with real use cases.
-Read here: https://dev.to/raagawrites/what-is-git-a-beginners-guide-with-real-examples
+Read here: http://dev.to/raagawrites/what-is-git-a-beginners-guide-with-real-examples-3pj6
 
 ### 3. How Does the Internet Actually Work? A Simple Explanation
 What actually happens when you type google.com and hit Enter — DNS, HTTP, servers explained simply.
-Read here: https://dev.to/raagawrites/how-does-the-internet-actually-work-a-simple-explanation
+Read here: https://dev.to/raagawrites/how-does-the-internet-actually-work-a-simple-explanation-2h57
 
 ### 4. Python vs Java — Which Should Beginners Learn First?
 An honest comparison with no fluff — when to pick Python, when to pick Java.
-Read here: https://dev.to/raagawrites/python-vs-java-which-should-beginners-learn-first
+Read here: https://dev.to/raagawrites/python-vs-java-which-should-beginners-learn-first-3600
 
 ### 5. What is an Algorithm? Explained with Everyday Examples
 Algorithms explained using tea-making and a real Python example — no intimidating jargon.
-Read here: https://dev.to/raagawrites/what-is-an-algorithm-explained-with-everyday-examples
+Read here: https://dev.to/raagawrites/what-is-an-algorithm-explained-with-everyday-examples-1d20
 
 ---
 
