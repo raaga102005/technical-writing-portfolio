@@ -27,6 +27,15 @@ Read here: https://dev.to/raagawrites/python-vs-java-which-should-beginners-lear
 Algorithms explained using tea-making and a real Python example — no intimidating jargon.
 Read here: https://dev.to/raagawrites/what-is-an-algorithm-explained-with-everyday-examples-1d20
 
+### 6. How Python Automation Saves Businesses Hours Every Week
+A practical guide showing real before/after examples of Python automation — Excel cleaning, price monitoring, and file organisation.
+Read here: https://dev.to/raagawrites/how-python-automation-saves-businesses-hours-every-week-4mbc
+
+### 7. What is Web Scraping? A Beginner's Guide with Real Python Code
+Web scraping explained simply with a complete working Python example using BeautifulSoup and pandas.
+Read here: https://dev.to/raagawrites/what-is-web-scraping-a-beginners-guide-with-real-python-code-2djb
+
+
 ---
 
 ## About me
