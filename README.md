@@ -37,7 +37,8 @@ Read here: https://dev.to/raagawrites/what-is-web-scraping-a-beginners-guide-wit
 
 ### 8. What is NumPy? The Backbone of Data Science in Python
 NumPy explained simply — why it exists, how it works, and why every data scientist needs it.
-Read here: https://dev.to/raagawrites/what-is-numpy-the-backbone-of-data-science-in-python
+Read here: https://dev.to/raagawrites/what-is-numpy-the-backbone-of-data-science-in-python-3i2i
+
 ---
 
 ## About me
